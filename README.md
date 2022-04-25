@@ -5,8 +5,11 @@ Requires [Imagemagick](http://www.imagemagick.org/)
 Some scripts for resizing and processing images since I do this all the time and always forget the incantations...
 
 ## grab beastie
-To get your transparent beast go to visit this URL with your beast's ID: https://beastopia.com/nobg/<Beast-ID>.png
-or
+To get your transparent beast go to visit this URL with your beast's ID: 
+
+`https://beastopia.com/nobg/<Beast-ID>.png`
+
+like:
 
 https://beastopia.com/nobg/0565.png
 
